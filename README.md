@@ -1,12 +1,9 @@
-# 📦 Queue and Stack in C++
+Queue and Stack in C++
 
-## 🎯 Aim  
+Aim  
 To study and implement **Queue** and **Stack** operations in C++ using arrays, and to understand their differences in terms of memory allocation, order of processing, and efficiency.
 
----
-
-## 📚 Theory  
-
+Theory  
 ### Queue  
 A **Queue** is a linear data structure that follows the **FIFO (First In, First Out)** principle. The element inserted first is the one removed first.  
 
@@ -30,10 +27,7 @@ A **Stack** is a linear data structure that follows the **LIFO (Last In, First O
 - Insertion and deletion at top only  
 - Overflow when full, underflow when empty  
 
----
-
-## 📋 Algorithm for Queue 
-
+Algorithm for Queue 
 1. **Start**  
 2. Initialize `front = -1`, `rear = -1`, and define array `arr[SIZE]`.  
 3. Display menu with options:  
@@ -123,10 +117,7 @@ A **Stack** is a linear data structure that follows the **LIFO (Last In, First O
 
 5. **End**
 
----
-
-## 🚀 Applications  
-
+Applications  
 ### Queue  
 - CPU scheduling (Round Robin, FCFS)  
 - Disk scheduling  
@@ -142,10 +133,7 @@ A **Stack** is a linear data structure that follows the **LIFO (Last In, First O
 - Browser history navigation  
 - Parsing and compilation  
 
----
-
-## 🧠 Conclusion  
-
+Conclusion  
 - **Queue** follows FIFO, useful for scheduling and buffering.  
 - **Stack** follows LIFO, useful for recursion, parsing, and backtracking.  
 - Both structures are fundamental in **Data Structures and Algorithms (DSA)** and form the basis for advanced applications like expression evaluation, graph traversal, and memory management.
