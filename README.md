@@ -84,7 +84,7 @@ Algorithm for Queue
 
 ---
 
-## 📋 Algorithm for Stack
+## Algorithm for Stack
 
 1. **Start**  
 2. Initialize `top = -1` and define array `arr[MAX]`.  
